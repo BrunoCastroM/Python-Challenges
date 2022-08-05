@@ -26,4 +26,3 @@ elif mes == 12 and 22 <= dia <= 31 or mes == 1 and 1 <= dia <= 20:
     print('Seu signo é: Capricórnio')
 else:
     print('Dados inválidos!')
-    
